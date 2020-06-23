@@ -12,7 +12,7 @@ int main()
     {
         area= sqrt(s*(s-a)*(s-b)*(s-c)); // formula
 
-        printf("The area is =%f",area)  // output
+        printf("The area is =%f",area);  // output
     }
     else
     {
